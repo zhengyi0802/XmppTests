@@ -1,3 +1,4 @@
+include ':XmppTest'
 include ':xmppservice440'
 include ':xmppservice414'
 include ':MundiChat'

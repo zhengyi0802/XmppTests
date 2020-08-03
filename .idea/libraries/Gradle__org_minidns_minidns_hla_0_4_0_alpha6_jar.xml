@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.minidns:minidns-hla:0.4.0-alpha6@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.minidns/minidns-hla/0.4.0-alpha6/a0244643ced227092350e639e3c02e44e23dbfc6/minidns-hla-0.4.0-alpha6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.minidns/minidns-hla/0.4.0-alpha6/473e0a403fe014c36fe62bad7e3ea261b417c3a5/minidns-hla-0.4.0-alpha6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.minidns/minidns-hla/0.4.0-alpha6/6d5afa460e33a70bf9cceb37771c63061bf85e8/minidns-hla-0.4.0-alpha6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

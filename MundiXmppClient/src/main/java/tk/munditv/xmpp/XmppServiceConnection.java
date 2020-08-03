@@ -168,7 +168,7 @@ public class XmppServiceConnection
             mConnection = mconnect;
         } else {
             XMPPTCPConnectionConfiguration.Builder builder = XMPPTCPConnectionConfiguration.builder()
-                    .setServiceName(mAccount.getServiceName())
+                    .setXmppDomain(mAccount.getServiceName())
                     .setResource(mAccount.getResourceName())
                     .setHost(mAccount.getHost())
                     .setPort(mAccount.getPort())

@@ -151,7 +151,8 @@ public class MainActivity extends AppCompatActivity implements MessageCallback{
     public void onDisconnected() {
         Logger.debug(TAG, "DisConnected!");
         mLoginStatus.setText(getString(R.string.str_disconnected));
-        XmppServiceCommand.login(this, mAccount);
+        Handler mHandler = new Handler();
+        //mHandler.postDelayed(doLogin, 2000);
     }
 
     @Override
@@ -172,14 +173,31 @@ public class MainActivity extends AppCompatActivity implements MessageCallback{
     public void onRegistered() {
         Logger.debug(TAG, "onRegistered!");
         mLoginStatus.setText(getString(R.string.str_registered));
-        XmppServiceCommand.connect(this, mAccount);
+        Handler mHandler = new Handler();
+        mHandler.postDelayed(dodisconnect, 3000);
+        mHandler.postDelayed(doLogin, 5000);
     }
+
+    private Runnable dodisconnect = new Runnable() {
+        @Override
+        public void run() {
+            XmppServiceCommand.disconnect(mContext);
+        }
+    };
+
+    private Runnable doLogin = new Runnable() {
+        @Override
+        public void run() {
+            XmppServiceCommand.login(mContext, mAccount);
+        }
+    };
 
     @Override
     public void onRegisterFailure() {
         Logger.debug(TAG, "onRegisterFailure!");
         mLoginStatus.setText(getString(R.string.str_registerfailure));
-        XmppServiceCommand.disconnect(this);
+        Handler mHandler = new Handler();
+        //mHandler.postDelayed(dodisconnect, 2000);
     }
 
     private void getSerialNumber() {

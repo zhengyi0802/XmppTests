@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.igniterealtime.smack:smack-xmlparser-xpp3:4.4.0-alpha5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-xmlparser-xpp3/4.4.0-alpha5/ebc8c429b0fe1bb7c7cf605ecbcfb710d122bc7c/smack-xmlparser-xpp3-4.4.0-alpha5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-xmlparser-xpp3/4.4.0-alpha5/f1c59206b2c5a701fa6a4b12609920adeb0eba04/smack-xmlparser-xpp3-4.4.0-alpha5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-xmlparser-xpp3/4.4.0-alpha5/542433bd09025b45f7b3b78e60f388ce674a812f/smack-xmlparser-xpp3-4.4.0-alpha5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

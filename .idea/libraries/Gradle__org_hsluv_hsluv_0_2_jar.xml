@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.hsluv:hsluv:0.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hsluv/hsluv/0.2/cf4b14b0dbae3598d48b3dee012e8c66416f3446/hsluv-0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hsluv/hsluv/0.2/d3dda7ea2218fcc44f03bfdc03689ef4fd32a3d8/hsluv-0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hsluv/hsluv/0.2/a4d1af079e749b671298675cc1d33e430abd8bfc/hsluv-0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

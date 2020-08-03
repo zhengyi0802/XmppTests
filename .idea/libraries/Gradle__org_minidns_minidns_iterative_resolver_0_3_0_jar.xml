@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.minidns:minidns-iterative-resolver:0.3.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.minidns/minidns-iterative-resolver/0.3.0/fd37d0b41ef59f66f3f8a38a88355ee49d95d5e6/minidns-iterative-resolver-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.minidns/minidns-iterative-resolver/0.3.0/23f86d05d29bbe24407bad240bee89219cf29111/minidns-iterative-resolver-0.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.minidns/minidns-iterative-resolver/0.3.0/753c32e262a3f519f49bc05be5f2cf0bb2db3afc/minidns-iterative-resolver-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

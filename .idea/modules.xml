@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MundiChat/MundiChat.iml" filepath="$PROJECT_DIR$/.idea/modules/MundiChat/MundiChat.iml" group="MundiXmppProject/MundiChat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MundiController/MundiController.iml" filepath="$PROJECT_DIR$/.idea/modules/MundiController/MundiController.iml" group="MundiXmppProject/MundiController" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MundiXmppClient/MundiXmppClient.iml" filepath="$PROJECT_DIR$/.idea/modules/MundiXmppClient/MundiXmppClient.iml" group="MundiXmppProject/MundiXmppClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MundiXmppProject.iml" filepath="$PROJECT_DIR$/.idea/modules/MundiXmppProject.iml" group="MundiXmppProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/XmppTest/XmppTest.iml" filepath="$PROJECT_DIR$/.idea/modules/XmppTest/XmppTest.iml" group="MundiXmppProject/XmppTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmppservice/xmppservice414.iml" filepath="$PROJECT_DIR$/.idea/modules/xmppservice/xmppservice414.iml" group="MundiXmppProject/xmppservice414" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmppservice440/xmppservice440.iml" filepath="$PROJECT_DIR$/.idea/modules/xmppservice440/xmppservice440.iml" group="MundiXmppProject/xmppservice440" />
+    </modules>
+  </component>
+</project>

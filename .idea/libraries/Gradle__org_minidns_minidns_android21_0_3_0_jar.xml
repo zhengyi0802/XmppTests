@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.minidns:minidns-android21:0.3.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.minidns/minidns-android21/0.3.0/13f273d095e51d701283062a25e867f3ff26d258/minidns-android21-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.minidns/minidns-android21/0.3.0/2b326475af1f4732ef2ac5403e2f3d2652a67618/minidns-android21-0.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.minidns/minidns-android21/0.3.0/ad1dc520054bdd5bf9b87c48ca8d5f99b272d6c3/minidns-android21-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
