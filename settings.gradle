@@ -1,0 +1,6 @@
+include ':xmppservice440'
+include ':xmppservice414'
+include ':MundiChat'
+include ':MundiController'
+include ':MundiXmppClient'
+rootProject.name = "MundiXmppProject"

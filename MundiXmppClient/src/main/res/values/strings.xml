@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MundiXmppClient</string>
+
+    <string name="label_login">Login by QRCode</string>
+    <string name="label_productmodel">Product Model : </string>
+    <string name="label_serialno">Serial Number : </string>
+    <string name="label_usage">Login by using Phone scan QRCode image as above :</string>
+
+    <string name="string_hostname">webrtc01.mundi-tv.tk</string>
+    <string name="string_servicename">webrtc01.mundi-tv.tk</string>
+    <string name="string_resourcename">MundiXmppClient</string>
+    <string name="param_serialno">serialno</string>
+    <string name="param_uuid">uuid</string>
+
+    <string name="str_connected">Connected</string>
+    <string name="str_disconnected">Disconnected</string>
+    <string name="str_login">Login</string>
+    <string name="str_registered">Registered</string>
+    <string name="str_tryregister">Try Register</string>
+    <string name="str_registerfailure">Register Failure</string>
+
+</resources>

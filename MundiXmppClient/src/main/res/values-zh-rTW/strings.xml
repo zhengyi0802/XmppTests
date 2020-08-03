@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">智慧遙控</string>
+
+    <string name="label_login">使用二維碼登入</string>
+    <string name="label_productmodel">型號 : </string>
+    <string name="label_serialno">序號 : </string>
+    <string name="label_usage">請使用手機掃描二維碼登入系統 :</string>
+
+    <string name="string_hostname">webrtc01.mundi-tv.tk</string>
+    <string name="string_servicename">webrtc01.mundi-tv.tk</string>
+    <string name="string_resourcename">MundiXmppClient</string>
+    <string name="param_serialno">serialno</string>
+    <string name="param_uuid">uuid</string>
+
+    <string name="str_connected">已連線</string>
+    <string name="str_disconnected">離線中</string>
+    <string name="str_login">已登入</string>
+    <string name="str_registered">已注冊</string>
+    <string name="str_tryregister">注冊中</string>
+    <string name="str_registerfailure">注冊失敗</string>
+</resources>

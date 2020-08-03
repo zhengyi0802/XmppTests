@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MundiChat</string>
+    <string name="title_contact">Contacts</string>
+    <string name="title_controller">Controller</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="label_account">Account</string>
+    <string name="label_send">Send</string>
+
+    <string name="label_available">Available</string>
+    <string name="label_chat">Chat</string>
+    <string name="label_away">Away</string>
+    <string name="label_dnd">Don\'t Distrubute</string>
+    <string name="label_offline">Offline</string>
+
+    <string name="login_title_account">Account</string>
+    <string name="login_title_password">Password</string>
+    <string name="login_btn_register">Register</string>
+    <string name="login_btn_login">Login</string>
+
+    <!-- Preference Titles -->
+    <string name="account_header">Account Settings</string>
+    <string name="server_header">Server Settings</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="username_title">User Account</string>
+    <string name="password_title">Password</string>
+    <string name="xmppurl_title">Default XMPP Server</string>
+    <string name="bosh_proxy">BOSH Proxy</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync contact periodically</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

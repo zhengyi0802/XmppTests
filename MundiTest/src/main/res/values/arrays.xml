@@ -1,0 +1,23 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="url_entries">
+        <item>WebRTC01</item>
+        <item>WebRTC1(anonymous user only)</item>
+    </string-array>
+
+    <string-array name="url_values">
+        <item>webrtc01.mundi-tv.tk</item>
+        <item>webrtc1.mundi-tv.tk</item>
+    </string-array>
+
+    <string-array name="bosh_entries">
+        <item>TCP</item>
+        <item>BOSH</item>
+    </string-array>
+
+    <string-array name="bosh_values">
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MundiController</string>
+
+    <string name="login_title_account">Account</string>
+    <string name="login_title_password">Password</string>
+    <string name="login_btn_register">Register</string>
+    <string name="login_btn_login">Login</string>
+
+
+</resources>

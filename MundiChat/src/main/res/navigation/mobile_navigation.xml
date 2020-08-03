@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_contacts">
+
+    <fragment
+        android:id="@+id/navigation_contacts"
+        android:name="tk.munditv.mundichat.ui.contacts.ContactsFragment"
+        android:label="@string/title_contact"
+        tools:layout="@layout/fragment_contacts" />
+
+    <fragment
+        android:id="@+id/navigation_controller"
+        android:name="tk.munditv.mundichat.ui.controller.ControllerFragment"
+        android:label="@string/title_controller"
+        tools:layout="@layout/fragment_controller" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="tk.munditv.mundichat.ui.settings.SettingsFragment"
+        android:label="@string/title_settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>
